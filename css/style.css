@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6{
 
 /*Header*/
 .navbar-default .navbar-nav>li>a {
-color: #777;
+color: #364b71;
 text-transform: uppercase;
 }
 .navbar-default .navbar-nav>li>a:hover{
@@ -26,7 +26,7 @@ header{
 	background-repeat: no-repeat;
 }
 .section_overlay{
-	background: rgba(250,250,250, .5);
+	background: rgba(52,76,116, .5);
 }
 .home_text{
 	padding-top: 210px;
@@ -352,7 +352,7 @@ color: #3d3d3d;
 
 
 .contact-form{
-background-color: #f1f1f1;
+background-color: #96aeda;
 padding: 30px;
 }
 .contact-form .form-control{
@@ -366,7 +366,7 @@ border: 0px solid #fff;
 }
 .form_submit{
 width: 100%;
-background: #f73b56;
+background: #364b71;
 border-radius: 0px;
 color: #fff;
 padding-top: 13px;
@@ -389,7 +389,7 @@ padding-top: 10px;
 
 /*Footer*/
 footer{
-	background-color: #f1f1f1;
+	background-color: #96aeda;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
