@@ -426,7 +426,7 @@ padding-right: 3px;
 }
 ul.icon_list li a{
 display: inline-block;
-color: #d1e1ff;
+color: #364b71;
 border: 1px solid #364b71;
 border-radius: 50%;
 text-align: center;
@@ -437,8 +437,8 @@ line-height: 28px;
 transition: all 1s;
 }
 ul.icon_list li a:hover{
-	color: #4d699e;
-	border-color:#e0e7f6; 
+	color: #d1e1ff;
+	border-color:#d1e1ff; 
 }
 .copyright_text{
 padding-top: 80px;	
