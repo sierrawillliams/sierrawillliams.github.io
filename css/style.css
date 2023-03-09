@@ -37,10 +37,11 @@ header{
 	padding-bottom: 210px;
 }
 .home_text h2{
-	color: #010101;
+	color: #d1e1ff;
 	font-size: 40px;
 	text-transform: uppercase;
 	letter-spacing: 13px;
+	text-shadow: 2px 2px #96aeda;
 }
 .home_text p{
 	color: #d1e1ff;
@@ -60,17 +61,20 @@ header{
 	padding-bottom: 96px;
 }
 .single_service i{
-	font-size: 25px;
+	font-size: 30px;
 	color: #96aeda;
 }
 .single_service h2{
 	color: #364b71;
 	font-size: 25px;
 	text-transform: uppercase;
+	text-shadow: 1px 1px #96aeda;
 }
 .single_service p{
 	color: #364b71;
 	font-size: 14px;
+	text-shadow: 1px 1px #96aeda;
+
 }
 .single_progress_bar .progress {
 height: 1px;
@@ -103,6 +107,8 @@ background-color: #364b71;
 	margin-top: 85px;
 	letter-spacing: 6px;
 	margin-bottom: 21px;
+	text-shadow: 1px 1px #96aeda;
+
 }
 .about_title img{
 	margin-bottom: 70px;
@@ -183,6 +189,8 @@ color: #96aeda;
 font-size: 40px;
 font-weight: bold;
 margin-bottom: 0px;	
+text-shadow: 1px 1px #364b71;
+
 }
 .single_count p{
 font-family: 'Dosis', sans-serif;
@@ -190,6 +198,8 @@ color: #fff;
 font-size: 14px;
 text-transform: uppercase;
 position: relative;	
+text-shadow: 1px 1px #96aeda;
+
 }
 .single_count p:before{
 content: "";
@@ -275,6 +285,8 @@ text-transform: uppercase;
 	padding-top: 80px;
 	text-transform: uppercase;
 	margin-bottom: 20px;
+	text-shadow: 1px 1px #96aeda;
+
 }
 .work_title img, .contact_title img{
 	margin-bottom: 30px;
@@ -335,6 +347,8 @@ color: #364b71;
 font-size: 18px;
 letter-spacing: 3px;
 margin-bottom: 1px;	
+text-shadow: 1px 1px #96aeda;
+
 }
 .single_contact_info p{
 font-size: 15px;
@@ -397,6 +411,7 @@ footer{
 .social h2{
 text-transform: uppercase;
 font-size: 16px;	
+color: #d1e1ff;
 }
 ul.icon_list{
 margin: 0;
@@ -423,8 +438,8 @@ line-height: 28px;
 transition: all 1s;
 }
 ul.icon_list li a:hover{
-	color: #364b71;
-	border-color:#d1e1ff; 
+	color: #4d699e;
+	border-color:#e0e7f6; 
 }
 .copyright_text{
 padding-top: 80px;	
